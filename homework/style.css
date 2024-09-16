@@ -1,0 +1,33 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+.link {
+    border: #000000 2px solid;
+    height: 300px;
+    width: 300px;
+    background: #e763ea;
+    padding: 20px;
+
+}
+
+.link2 {
+    border: #000000 2px solid;
+    height: 200px;
+    width: 200px;
+    background: #727aef;
+    padding: 15px;
+}
+
+.link3 {
+    border: #000000 2px solid;
+    height: 100px;
+    width: 100px;
+    background: #dfbb56;
+    padding: 10px;
+}
